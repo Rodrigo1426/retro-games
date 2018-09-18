@@ -1,10 +1,10 @@
 # Retro-Games
 Instalação do Retro Pie no Linux Mint
 
-Siga este tutorial para a instalação do Retro Pie numa máquinacom Linux Mint 19
+Siga este tutorial para a instalação do Retro Pie numa máquina com Linux Mint 19
 
 ### 1 - Atualize o pacote APT usando este comando
-sudo apt-get update && sudo apt-get upagrade
+sudo apt-get update && sudo apt-get upgrade
 
 ### 2 - Instale os pacotes necessário usando este comando
 sudo apt-get install -y git dialog unzip xmlstarlet
